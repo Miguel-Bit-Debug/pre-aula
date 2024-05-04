@@ -1,0 +1,16 @@
+Iniciar fazendo configuração do GIT / GITHUB
+Fazer revisão da aula passada (estrutura HTML e TAGS)
+Criar uma pagina html com css no mesmo arquivo
+Separar responsabilidades de HTML e CSS em arquivos 
+Explicar o que são ID
+
+
+class é um identificador para um grupo de elementos
+id é um identificador apenas para um unico elemento
+
+
+google fonts
+    https://fonts.google.com/
+
+css palette
+    https://mybrandnewlogo.com/pt/gerador-de-paleta-de-cores

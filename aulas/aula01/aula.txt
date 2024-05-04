@@ -1,0 +1,6 @@
+1 - explicar o que e como será o modulo 2
+2 - explicar o que é desenvolvimento web (BACKEND - FRONTEND, MOBILE, IA, IOT, RA, DESKTOP)
+3 - explicar o que é HTML, CSS e JS
+4 - instalar plugis no visual studio code
+5 - explicar o que são arquivos de extensão
+6 - explicar o que é markdown
