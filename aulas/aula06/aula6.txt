@@ -1,0 +1,7 @@
+Introdução a listas/arrays/vetores
+Trazer do mundo real para o código - exemplo de lista
+Mostrar como se cria um array em js
+Mostrar exemplos em python, c# e java
+Explicar funções de uma lista
+explicar porque arrays em js aceitam tudo e em c# não
+
