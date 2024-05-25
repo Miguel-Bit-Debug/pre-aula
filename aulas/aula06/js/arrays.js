@@ -23,6 +23,9 @@ nomes.sort() // ordena lista
 nomes.reverse() // Inverte a ordem dos itens da lista
 nomes.length // tamanho da lista
 
+var d = ['a', 'b', 'c', 'd', 'e', 'f']
+var posicao = d.indexOf('b')
+console.log(posicao)
 
-
-
+d.splice(posicao, 2)
+console.log(d)
