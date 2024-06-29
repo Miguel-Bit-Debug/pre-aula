@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Animação de Rotação</title>
+    <style>
+        .imagem {
+            width: 10%;
+            height: 10%;
+            animation: rodar 4s linear infinite;
+            border-radius: 50%;
+        }
+
+        @keyframes rodar {
+            0% {
+                transform: rotate(0deg);
+                filter: hue-rotate(300deg);
+            }
+
+            50% {
+                width: 0%;
+            }
+            
+            100% {
+                transform: rotate(360deg);
+                height: 10%;
+                width: 10%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <img src="https://via.placeholder.com/150" alt="Imagem Giratória" class="imagem">
+</body>
+</html>
